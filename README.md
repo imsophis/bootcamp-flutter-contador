@@ -1,17 +1,20 @@
-# contador
+# F-APP 
 
-primer app de contador en flutter
+Primer app "Contador" del Bootcamp.
 
-## Getting Started
+## Parte Visual
 
-This project is a starting point for a Flutter application.
+-> reload :
+<img width="1143" height="685" alt="image" src="https://github.com/user-attachments/assets/233d1b2c-3d11-4d4a-8758-b1a956c980c1" />
 
-A few resources to get you started if this is your first Flutter project:
+-> add :
+<img width="1143" height="686" alt="image" src="https://github.com/user-attachments/assets/f3231014-9634-466a-b008-f68563411d5b" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+-< substraction : 
+<img width="1140" height="684" alt="image" src="https://github.com/user-attachments/assets/1fbd6c8d-0878-4ef0-b8d6-1afab80204d3" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Modificación
+En carpeta lib : 
+- main.dart
+- counter_screen
+- counter_screen_state
